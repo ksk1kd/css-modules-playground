@@ -1,7 +1,15 @@
+@value fontSizeSmall: 1rem;
+@value fontSizeMeidum: 2rem;
+@value fontSizeLarge: 3rem;
+
 :global(html) {
   box-sizing: border-box;
 }
 
 .title {
   font-size: 4rem;
+}
+
+.subtitle {
+  font-size: fontSizeLarge;
 }
