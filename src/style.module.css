@@ -13,3 +13,12 @@
 .subtitle {
   font-size: fontSizeLarge;
 }
+
+.link {
+  color: blue;
+}
+
+.link:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
